@@ -5,7 +5,7 @@
         <div class="text-justify">
             <li>Given appropriate clinical parameters of a patient, the machine learning model predicts whether or
                 not
-                the patient has heart disease with over &asymp;90% accuracy.</li>
+                the patient has heart disease with over &asymp; 90% accuracy.</li>
             <li>The dataset was taken from <a href="https://www.kaggle.com/ronitf/heart-disease-uci">Kaggle</a></li>
             <li>Data dictionary:
                 <ul>
