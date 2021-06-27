@@ -1,4 +1,4 @@
-# heart-disease-classification
+# heart-disease-classifier
 
 <div class="content-section">
     <ul>
