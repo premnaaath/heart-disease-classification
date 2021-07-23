@@ -3,11 +3,8 @@
 ## About
 
 - Given appropriate clinical parameters of a patient, the machine learning model predicts whether or not the patient has heart disease with over &asymp; 90% accuracy.
-
 - The dataset was taken from [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci) and was trained with different machine learning models and hyper parameters.
-
 - The model was evaluated with accuracy score, optimum results were obtained with logistic regression estimator.
-
 - View [Deployment](https://heartdiseaseclassification.herokuapp.com/)
 
 ## Data Dictionary
