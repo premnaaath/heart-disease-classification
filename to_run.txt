@@ -1,0 +1,6 @@
+python -m venv ./venv
+venv/Scripts/activate
+pip install ipykernel
+ipython kernel install --user --name=hd_classifier
+pip install -r requirements.txt
+
