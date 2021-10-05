@@ -1,0 +1,12 @@
+1. List all kernels
+    jupyter kernelspec list
+
+2. To install a new kernel
+    pip install ipykernel
+    python -m ipykernel install --user --name=venv
+
+3. Delete an existing kernel
+    jupyter kernelspec uninstall venv_name
+
+4. Upgrade pip
+    python -m pip install --upgrade pip
